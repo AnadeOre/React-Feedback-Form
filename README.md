@@ -4,6 +4,8 @@
 
 Feedback form made in React js that uses Cloudinary for image upload and Sendgrid to send the form. 👓
 
+![Screen](./frontend/Images/Screen.JPG)
+
 ## Contributing 🖇️
 
 Any contributions are highly appreciated. There are two things you can do:
